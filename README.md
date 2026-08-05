@@ -4,7 +4,7 @@ Warning: This repository was built entirely using AI.
 
 Required parameter for MusicBee: `ytartist:<Artist>`
 
-`Windows Registry Editor Version 5.00
+```Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\ytartist]
 @="URL:YouTube Artist"
@@ -18,7 +18,7 @@ Required parameter for MusicBee: `ytartist:<Artist>`
 [HKEY_CLASSES_ROOT\ytartist\shell\open]
 
 [HKEY_CLASSES_ROOT\ytartist\shell\open\command]
-@="\"C:\\Path\\To\\YouTubeRedirect.exe\" \"%1\""` 
+@="\"C:\\Path\\To\\YouTubeRedirect.exe\" \"%1\""``` 
 
 Replace `C:\\Path\\To\\YouTubeRedirect.exe` with the full path to `YouTubeRedirect.exe` inside your MusicBee `Local URLS` folder.
 
