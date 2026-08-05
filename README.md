@@ -18,7 +18,8 @@ Required parameter for MusicBee: `ytartist:<Artist>`
 [HKEY_CLASSES_ROOT\ytartist\shell\open]
 
 [HKEY_CLASSES_ROOT\ytartist\shell\open\command]
-@="\"C:\\Path\\To\\YouTubeRedirect.exe\" \"%1\""``` 
+@="\"C:\\Path\\To\\YouTubeRedirect.exe\" \"%1\""
+``` 
 
 
 Replace `C:\\Path\\To\\YouTubeRedirect.exe` with the full path to `YouTubeRedirect.exe` inside your MusicBee `Local URLS` folder.
