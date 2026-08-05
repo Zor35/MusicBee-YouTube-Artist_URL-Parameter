@@ -9,7 +9,7 @@ Required parameter for MusicBee: `ytartist:<Artist>`
 1. unzip `Local.URLS.zip`
 2. Copy the `Local URLS` folder from the `Local.URLS\Local URLS2` directory.
 3. Go to the directory where MusicBee is installed.
-   3.1. To avoid issues during the process, if you are using Windows 10, right-click the MusicBee folder, then click Properties, open the Security tab, and finally click the Edit button next to "To change permissions, click Edit." If you are using Windows 11, right-click the MusicBee folder, click Show more options, then click Properties, open the Security tab, and finally click the Edit button next to "To change permissions, click Edit."
+   *To avoid issues during the process, if you are using Windows 10, right-click the MusicBee folder, then click Properties, open the Security tab, and finally click the Edit button next to "To change permissions, click Edit." If you are using Windows 11, right-click the MusicBee folder, click Show more options, then click  Properties, open the Security tab, and finally click the Edit button next to "To change permissions, click Edit."
 5. Paste the copied `Local URLS` folder into the directory where MusicBee is installed.
 6. Open the Local URLS directory.
 7. Windows 10: Right-click the ytartist.reg file and select Edit in Notepad. Windows 11: Right-click the ytartist.reg file, click Show more options, then select Edit in Notepad.
