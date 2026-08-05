@@ -6,9 +6,11 @@ Required parameter for MusicBee: `ytartist:<Artist>`
 
 ## Setup
 
-1. unzip 
-
-```Windows Registry Editor Version 5.00
+1. unzip `Local.URLS.zip`
+2. Windows 10: Right-click the ytartist.reg file and select Edit in Notepad. Windows 11: Right-click the ytartist.reg file, click Show more options, then select Edit in Notepad.
+3. Edit the following code in the ytartist.reg file:
+```reg
+Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\ytartist]
 @="URL:YouTube Artist"
