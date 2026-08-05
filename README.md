@@ -35,4 +35,5 @@ Windows Registry Editor Version 5.00
 8. Replace `C:\\Path\\To\\YouTubeRedirect.exe` with the full path to `YouTubeRedirect.exe` inside your MusicBee `Local URLS` folder.
    Example:
   `C:\\Program Files (x86)\\MusicBee\\Local URLS\\YouTubeRedirect.exe`
+
 9. Save the file using `ANSI` encoding.
