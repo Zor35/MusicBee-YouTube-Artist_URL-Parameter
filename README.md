@@ -36,4 +36,4 @@ Windows Registry Editor Version 5.00
    Example:
   `C:\\Program Files (x86)\\MusicBee\\Local URLS\\YouTubeRedirect.exe`
 
-9. Save the file using `ANSI` encoding.
+9. Save the ytartist.reg file using ANSI encoding.
