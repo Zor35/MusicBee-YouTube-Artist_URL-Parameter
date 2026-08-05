@@ -7,8 +7,8 @@ Required parameter for MusicBee: `ytartist:<Artist>`
 ## Setup
 
 1. unzip `Local.URLS.zip`
-2. Go to the directory where MusicBee is installed.
-3. Copy the `Local URLS` folder from the `Local.URLS\Local URLS2` directory.
+2. Copy the `Local URLS` folder from the `Local.URLS\Local URLS2` directory.
+3. Go to the directory where MusicBee is installed.
 4. Windows 10: Right-click the ytartist.reg file and select Edit in Notepad. Windows 11: Right-click the ytartist.reg file, click Show more options, then select Edit in Notepad.
 5. Edit the following code in the ytartist.reg file:
 ```reg
