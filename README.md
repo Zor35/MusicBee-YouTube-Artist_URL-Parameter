@@ -38,4 +38,5 @@ Windows Registry Editor Version 5.00
 
 9. Save the ytartist.reg file using ANSI encoding.
 10. Double-click the ytartist.reg file, then click the Run button in the warning dialog that appears.
+
 ![Run dialog](Setup İmages/İmage1.png)
