@@ -37,3 +37,4 @@ Windows Registry Editor Version 5.00
   `C:\\Program Files (x86)\\MusicBee\\Local URLS\\YouTubeRedirect.exe`
 
 9. Save the ytartist.reg file using ANSI encoding.
+10. Double-click the ytartist.reg file, then click the Run button in the warning dialog that appears.
