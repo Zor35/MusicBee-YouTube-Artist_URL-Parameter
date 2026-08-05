@@ -4,6 +4,10 @@ Warning: This repository was built entirely using AI.
 
 Required parameter for MusicBee: `ytartist:<Artist>`
 
+## Setup
+
+1. unzip 
+
 ```Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\ytartist]
