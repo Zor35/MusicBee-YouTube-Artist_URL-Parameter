@@ -16,8 +16,8 @@ If you are going to use the parameter on Windows, the only required parameter is
    
 5. Paste the copied `Local URLS` folder into the directory where MusicBee is installed.
 6. Open the `Local URLS` directory.
-7. Windows 10: Right-click the ytartist.reg file and select Edit in Notepad. Windows 11: Right-click the ytartist.reg file, click Show more options, then select Edit in Notepad.
-8. Edit the following code in the ytartist.reg file:
+7. Windows 10: Right-click the `ytartist.reg` file and select `Edit in Notepad`. Windows 11: Right-click the `ytartist.reg file`, click Show more options, then select `Edit in Notepad`.
+8. Edit the following code in the `ytartist.reg` file:
 ```reg
 Windows Registry Editor Version 5.00
 
