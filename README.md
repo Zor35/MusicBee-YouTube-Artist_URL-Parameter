@@ -52,4 +52,4 @@ Windows Registry Editor Version 5.00
 
 <img src="SetupImages/Image3.png" alt="Run dialog" width="700">
 
-Setup completed.
+
