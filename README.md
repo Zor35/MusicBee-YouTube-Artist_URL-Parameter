@@ -47,3 +47,7 @@ Windows Registry Editor Version 5.00
 11. When the UAC prompt appears, click "Yes":
 
 <img src="SetupImages/Image2.png" alt="Run dialog" width="500">
+
+12. Double-click YouTubeRedirect.exe, then click "More info" in the SmartScreen warning, and finally click "Run anyway":
+
+<img src="SetupImages/Image3.png" alt="Run dialog" width="500">
