@@ -15,7 +15,7 @@ If you are going to use the parameter on Windows, the only required parameter is
    *To avoid issues during the process, if you are using Windows 10, right-click the MusicBee folder, then click Properties, open the Security tab, and finally click the Edit button next to "To change permissions, click Edit." If you are using Windows 11, right-click the MusicBee folder, click Show more options, then click  Properties, open the Security tab, and finally click the Edit button next to "To change permissions, click Edit."
    
 5. Paste the copied `Local URLS` folder into the directory where MusicBee is installed.
-6. Open the Local URLS directory.
+6. Open the `Local URLS` directory.
 7. Windows 10: Right-click the ytartist.reg file and select Edit in Notepad. Windows 11: Right-click the ytartist.reg file, click Show more options, then select Edit in Notepad.
 8. Edit the following code in the ytartist.reg file:
 ```reg
