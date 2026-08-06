@@ -50,4 +50,4 @@ Windows Registry Editor Version 5.00
 
 12. Double-click YouTubeRedirect.exe, then click "More info" in the SmartScreen warning, and finally click "Run anyway":
 
-<img src="SetupImages/Image3.png" alt="Run dialog" width="500">
+<img src="SetupImages/Image3.png" alt="Run dialog" width="700">
