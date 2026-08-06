@@ -4,6 +4,8 @@ Warning: This repository was built entirely using AI.
 
 Required parameter for MusicBee: `ytartist:<Artist>`
 
+If you are going to use the parameter on Windows, the only required parameter is: `ytartist:`
+
 ## Setup
 
 1. unzip `Local.URLS.zip`
